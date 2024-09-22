@@ -1,0 +1,14 @@
+D:\DrawingInconsole\Drawing in Console\bin\Debug\net8.0\Drawing in Console.exe
+D:\DrawingInconsole\Drawing in Console\bin\Debug\net8.0\Drawing in Console.deps.json
+D:\DrawingInconsole\Drawing in Console\bin\Debug\net8.0\Drawing in Console.runtimeconfig.json
+D:\DrawingInconsole\Drawing in Console\bin\Debug\net8.0\Drawing in Console.dll
+D:\DrawingInconsole\Drawing in Console\bin\Debug\net8.0\Drawing in Console.pdb
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.AssemblyInfoInputs.cache
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.AssemblyInfo.cs
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.csproj.CoreCompileInputs.cache
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.dll
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\refint\Drawing in Console.dll
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.pdb
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\Drawing in Console.genruntimeconfig.cache
+D:\DrawingInconsole\Drawing in Console\obj\Debug\net8.0\ref\Drawing in Console.dll
