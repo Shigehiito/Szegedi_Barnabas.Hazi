@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DrawingInConsol
-build_property.ProjectDir = C:\Users\Gery\Desktop\Baranyai Házi\DrawingInConsol\
+build_property.ProjectDir = C:\Users\Gery\Source\Repos\Szegedi_Barnabas.Hazi\Szegedi_Barnabás.Házi\DrawingInConsol\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

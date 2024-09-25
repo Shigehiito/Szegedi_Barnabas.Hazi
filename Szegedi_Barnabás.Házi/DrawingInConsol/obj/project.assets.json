@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gery\\Downloads\\DrawingInConsol\\DrawingInConsol\\DrawingInConsol.csproj",
+      "projectUniqueName": "C:\\Users\\Gery\\Source\\Repos\\Szegedi_Barnabas.Hazi\\Szegedi_Barnabás.Házi\\DrawingInConsol\\DrawingInConsol.csproj",
       "projectName": "DrawingInConsol",
-      "projectPath": "C:\\Users\\Gery\\Downloads\\DrawingInConsol\\DrawingInConsol\\DrawingInConsol.csproj",
+      "projectPath": "C:\\Users\\Gery\\Source\\Repos\\Szegedi_Barnabas.Hazi\\Szegedi_Barnabás.Házi\\DrawingInConsol\\DrawingInConsol.csproj",
       "packagesPath": "C:\\Users\\Gery\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gery\\Downloads\\DrawingInConsol\\DrawingInConsol\\obj\\",
+      "outputPath": "C:\\Users\\Gery\\Source\\Repos\\Szegedi_Barnabas.Hazi\\Szegedi_Barnabás.Házi\\DrawingInConsol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gery\\AppData\\Roaming\\NuGet\\NuGet.Config",
