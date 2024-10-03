@@ -35,18 +35,18 @@ class Program
     static void Main()
     {
         Console.CursorVisible = false;
-
+        ConsoleKeyInfo input;
         DrawCursor();
-
-        while (true)
+        do
         {
-            ConsoleKeyInfo input = Console.ReadKey(true);
+            input = Console.ReadKey(true);
 
             bool positionChanged = false;
 
             switch (input.Key)
             {
                 case ConsoleKey.UpArrow:
+                    //if(0<Console.CursorTop) Console.CursorTop -= 1;
                     if (y > 0) { prevY = y; prevX = x; y--; positionChanged = true; }
                     break;
                 case ConsoleKey.DownArrow:
@@ -62,9 +62,15 @@ class Program
                     trail.Add((x, y, currentChar, currentColor));
                     DrawCharacter(x, y, currentChar, currentColor);
                     break;
-                case ConsoleKey.Escape:
-
-                    return;
+                case ConsoleKey.D1:
+                case ConsoleKey.D2:
+                case ConsoleKey.D3:
+                case ConsoleKey.D4:
+                case ConsoleKey.D5:
+                case ConsoleKey.D6:
+                case ConsoleKey.D7:
+                    Console.ForegroundColor = colorMapping[input.Key];
+                    break;
             }
 
             if (colorMapping.ContainsKey(input.Key))
@@ -81,10 +87,9 @@ class Program
             {
                 ClearCursorArea(prevX, prevY);
                 DrawCursor();
-
-
             }
         }
+        while (input.Key != ConsoleKey.Escape);
     }
 
     static void DrawCharacter(int posX, int posY, char character, ConsoleColor color)
