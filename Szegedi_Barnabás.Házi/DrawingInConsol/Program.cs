@@ -10,8 +10,7 @@ class Program
     static char prevChar = ' ';
 
     static List<(int x, int y, char character, ConsoleColor color)> trail = new List<(int, int, char, ConsoleColor)>();
-
-
+     
     static Dictionary<ConsoleKey, char> charMapping = new Dictionary<ConsoleKey, char>
     {
         { ConsoleKey.F1, '█' },
